@@ -1,4 +1,5 @@
 #Christian-Sway-Rice
+
 This is a list of configuration files for my Sway rice with Wofi and Waybar.
 
 Make sure you put sway in ~/.config/sway.
